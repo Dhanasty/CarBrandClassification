@@ -14,8 +14,8 @@ The model architecture used for this project is ResNet50, a deep convolutional n
 
 To run the code in this repository, you need the following dependencies:
 
-- Python 3.x
-- TensorFlow 2.x
+- Python 3.7 or above
+- TensorFlow 2.10
 - Other dependencies specified in `requirements.txt`
 
 ## Usage
